@@ -17,7 +17,7 @@
     <div class="container-fluid">
         <div class="row">
             <!-- Quick Links Section -->
-            <div class="col-md-2 offset-md-2">
+            <div class="col-md-2 offset-md-1">
                 <h5 style="font-size: 1rem; color: lightgrey;">Quick Links</h5>
                 <ul class="list-unstyled" style="font-size: 0.8rem;">
                     <li><a href="AccountManagement.php" style="color: lightgrey;">Account Management</a></li>

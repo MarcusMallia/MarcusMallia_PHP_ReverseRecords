@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php include 'header.php'; ?>
-
+    <div class="content">
     <!-- Account Management Section -->
     <div class="container mt-4">
         <h2>Account Management</h2>
@@ -30,7 +30,7 @@
             <button type="submit" class="btn btn-primary">Update Account</button>
         </form>
     </div>
-
+    </div>
     <?php include 'footer.php'; ?>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>

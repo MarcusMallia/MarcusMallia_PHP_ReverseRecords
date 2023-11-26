@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php include 'header.php'; ?>
-
+    <div class="content">
     <!-- Checkout Section -->
     <div class="container mt-4">
         <h2>Checkout</h2>
@@ -51,7 +51,7 @@
             <button type="submit" class="btn btn-primary">Place Order</button>
         </form>
     </div>
-
+    </div>
     <?php include 'footer.php'; ?>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>

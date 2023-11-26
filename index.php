@@ -10,7 +10,7 @@
 </head>
 <body>
     <?php include 'header.php'; ?>
-
+    <div class="content">
     <!-- Banner Section -->
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
@@ -216,7 +216,7 @@
             </div>
     </div>
 </div>
-
+</div>
      
 
     <?php include 'footer.php'; ?>

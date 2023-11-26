@@ -11,7 +11,7 @@
 </head>
 <body>
     <?php include 'header.php'; ?>
-
+    <div class="content">
     <!-- Product Details Section -->
     <div class="container mt-4">
         <div class="row">
@@ -75,7 +75,7 @@ Radio: Internet.</p>
             <button type="submit" class="btn btn-primary">Submit Review</button>
         </form>
     </div>
-
+    </div>
     <?php include 'footer.php'; ?>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>

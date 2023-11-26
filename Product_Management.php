@@ -9,6 +9,7 @@
 </head>
 <body>
     <?php include 'header.php'; ?>
+    <div class="content">
 
     <!-- Product Management Section -->
     <div class="container mt-4">
@@ -63,7 +64,7 @@
             </tbody>
         </table>
     </div>
-
+    </div>
     <?php include 'footer.php'; ?>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
